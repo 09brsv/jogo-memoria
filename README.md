@@ -1,4 +1,30 @@
-# jogo-memoria
-Jogo da memória criado em conjunto com a DIO, usando HTML5,  CSS3 e Javascript !
+# Jogo da memória 😄😄
 
-Algumas edições pontuais feitas ao meu gosto a fim de exercitar os conhecimentos adquiridos.
+<br>
+
+**Criado em conjunto com a DIO usando funcionalidades do ES6 e CSS3.** 👋👋
+
+<br>
+
+## Aprendizados  ✅✅
+<br>
+
+* Manipulando eventos em Javascript.
+* Fazendo comparações com o atributo data no HTML.
+* Aumentando a prática em funções, manipulação de objetos, funções anônimas e 'This' em Js.
+* Inserindo novos elementos de forma dinâmica.
+
+<br>
+
+## Acesso ⬇⬇
+<br>
+
+> [Link para a página aqui](https://jogo-memoria-rust.vercel.app/)
+
+<br>
+
+## Contato ✉
+
+>Para dúvidas, críticas ou sugestões, me envie um [Email](mailto:brunoornelio@hotmail.com)
+
+

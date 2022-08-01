@@ -2,7 +2,10 @@
 
 <br>
 
-**Criado em conjunto com a DIO usando funcionalidades do ES6 e CSS3.** 👋👋
+**Criado em conjunto com a DIO usando funcionalidades do ES6 e CSS3.** 👋👋  
+<br>
+
+<img src="assets/imagens/jogo-memoria.png" alt="screenshot jogo-memoria" width="50%" />
 
 <br>
 
